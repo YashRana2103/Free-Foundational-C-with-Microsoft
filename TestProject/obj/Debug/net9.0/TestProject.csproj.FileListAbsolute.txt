@@ -1,0 +1,15 @@
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\bin\Debug\net9.0\TestProject.exe
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\bin\Debug\net9.0\TestProject.deps.json
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\bin\Debug\net9.0\TestProject.runtimeconfig.json
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\bin\Debug\net9.0\TestProject.dll
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\bin\Debug\net9.0\TestProject.pdb
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfoInputs.cache
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\TestProject.AssemblyInfo.cs
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\TestProject.csproj.CoreCompileInputs.cache
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\TestProject.sourcelink.json
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\TestProject.dll
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\refint\TestProject.dll
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\TestProject.pdb
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\TestProject.genruntimeconfig.cache
+D:\__Learnings\Free Foundational C# with Microsoft\TestProject\obj\Debug\net9.0\ref\TestProject.dll
