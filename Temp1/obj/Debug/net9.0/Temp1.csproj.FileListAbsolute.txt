@@ -1,0 +1,15 @@
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\bin\Debug\net9.0\Temp1.exe
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\bin\Debug\net9.0\Temp1.deps.json
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\bin\Debug\net9.0\Temp1.runtimeconfig.json
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\bin\Debug\net9.0\Temp1.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\bin\Debug\net9.0\Temp1.pdb
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\Temp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\Temp1.AssemblyInfoInputs.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\Temp1.AssemblyInfo.cs
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\Temp1.csproj.CoreCompileInputs.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\Temp1.sourcelink.json
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\Temp1.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\refint\Temp1.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\Temp1.pdb
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\Temp1.genruntimeconfig.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Temp1\obj\Debug\net9.0\ref\Temp1.dll
