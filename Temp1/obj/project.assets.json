@@ -8,24 +8,32 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\yashr\\.nuget\\packages\\": {}
+    "C:\\Users\\yashr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\__Learnings\\Free Foundational C# with Microsoft\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "D:\\__Learnings\\Free Foundational C# with Microsoft\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "D:\\__Learnings\\Free Foundational C# with Microsoft\\Temp1\\Temp1.csproj",
+      "projectName": "Temp1",
+      "projectPath": "D:\\__Learnings\\Free Foundational C# with Microsoft\\Temp1\\Temp1.csproj",
       "packagesPath": "C:\\Users\\yashr\\.nuget\\packages\\",
-      "outputPath": "D:\\__Learnings\\Free Foundational C# with Microsoft\\TestProject\\obj\\",
+      "outputPath": "D:\\__Learnings\\Free Foundational C# with Microsoft\\Temp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\yashr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\yashr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -65,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
