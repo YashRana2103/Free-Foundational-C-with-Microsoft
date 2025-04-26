@@ -22,30 +22,40 @@ bool useTestData = true;
 
 Console.Clear();
 
+//* This is the actual TILL which contains the money count
 int[] cashTill = new int[] { 0, 0, 0, 0 };
 int registerCheckTillTotal = 0;
 
 // registerDailyStartingCash: $1 x 50, $5 x 20, $10 x 10, $20 x 5 => ($350 total)
+//! array which contains the cash in kind of key value pair {key, value}
+//! key = money type or money value
+//! value = count of that money
+//* This array will be only used when we want to reset(refill) the available cash in TILL
 int[,] registerDailyStartingCash = new int[,] { { 1, 50 }, { 5, 20 }, { 10, 10 }, { 20, 5 } };
 
+//* each element can be seen as the transaction amount
 int[] testData = new int[] { 6, 10, 17, 20, 31, 36, 40, 41 };
 int testCounter = 0;
 
+//* This method used to reset(refill) the TILL
 LoadTillEachMorning( registerDailyStartingCash, cashTill );
 
+//* This is the variable which will hold the Total amount held by TILL after resetting(refilling) it.
 registerCheckTillTotal = registerDailyStartingCash[0, 0] * registerDailyStartingCash[0, 1] + registerDailyStartingCash[1, 0] * registerDailyStartingCash[1, 1] + registerDailyStartingCash[2, 0] * registerDailyStartingCash[2, 1] + registerDailyStartingCash[3, 0] * registerDailyStartingCash[3, 1];
 
-// display the number of bills of each denomination currently in the till
+//* This is simply just to display the current TILL balance
 LogTillStatus( cashTill );
 
-// display a message showing the amount of cash in the till
+//* This is just simply display the current total cash held by TILL
 Console.WriteLine( TillAmountSummary( cashTill ) );
 
-// display the expected registerDailyStartingCash total
+//* Displaying the message that shows that TILL balance should be equal to the amount we have entered at time of resetting(refilling) TILL. Basically registerCheckTillTotal variable
 Console.WriteLine( $"Expected till value: {registerCheckTillTotal}\n\r" );
 
+//* Variable we will use to generate the random number
 var valueGenerator = new Random( ( int ) DateTime.Now.Ticks );
 
+//* The default transactions 
 int transactions = 10;
 
 if ( useTestData ) {
@@ -164,5 +174,4 @@ static void LogTillStatus( int[] cashTill ) {
 
 static string TillAmountSummary( int[] cashTill ) {
     return $"The till has {cashTill[3] * 20 + cashTill[2] * 10 + cashTill[1] * 5 + cashTill[0]} dollars";
-
 }
