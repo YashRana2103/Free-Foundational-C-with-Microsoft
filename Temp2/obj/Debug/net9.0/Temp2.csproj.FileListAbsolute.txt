@@ -1,0 +1,15 @@
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\bin\Debug\net9.0\Temp2.exe
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\bin\Debug\net9.0\Temp2.deps.json
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\bin\Debug\net9.0\Temp2.runtimeconfig.json
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\bin\Debug\net9.0\Temp2.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\bin\Debug\net9.0\Temp2.pdb
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\Temp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\Temp2.AssemblyInfoInputs.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\Temp2.AssemblyInfo.cs
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\Temp2.csproj.CoreCompileInputs.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\Temp2.sourcelink.json
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\Temp2.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\refint\Temp2.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\Temp2.pdb
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\Temp2.genruntimeconfig.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Temp2\obj\Debug\net9.0\ref\Temp2.dll

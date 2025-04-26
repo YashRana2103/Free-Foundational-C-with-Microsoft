@@ -1,0 +1,15 @@
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\__Learnings\Free Foundational C# with Microsoft\Guided-project-debugging-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
